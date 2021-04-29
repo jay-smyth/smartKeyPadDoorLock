@@ -1,0 +1,2 @@
+#define SECRET_SSID    "EEE502 -B00613971"
+#define SECRET_PASS    "8?617zN6"
